@@ -3,7 +3,7 @@
 <h3 align="center"> Data Analyst</h3>
 <h5 align="left">I truly enjoy the process of getting to know my data and dig deeper until I discover what the data "is telling me". My passion is data visualization and simplification of complex findings and patterns in order for different stakeholders to understand the data and make use of it. I flourish in an organized environment and love communicating with people. What I have learned about myself during the years is that I enjoy helping others and do not stop until a problem had been resolved: Get things done today because tomorrow brings new challenges!.</h5>
 
-<img align="right" alt="Coding" width="400" src="https://tse3.mm.bing.net/th?id=OIP.U9KCxb_HkEp-_NzwpZRl2QHaEw&pid=Api&P=0&h=180">
+<img align="right" alt="Coding" width="400" src="https://github.com/gabriela-arlt/Gabriela-Arlt/blob/main/Polynomial.png">
 
 
 ❤️ I’m currently learning **Data Pipeline and Automation**
