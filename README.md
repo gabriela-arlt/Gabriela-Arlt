@@ -8,9 +8,8 @@
 
 ❤️ I’m currently learning **Data Pipeline and Automation**
 
-📄 Know about my experiences [https://www.linkedin.com/in/gabriela-arlt/](https://www.linkedin.com/in/gabriela-arlt-a9695782/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> https://www.linkedin.com/in/gabriela-arlt-a9695782/
 <p align="left">
 <a href="[https://www.linkedin.com/in/gabriela-arlt-a9695782/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriela-arlt/" height="30" width="40" /></a>
 </p>
