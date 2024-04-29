@@ -6,8 +6,6 @@
 <img align="right" alt="Coding" width="400" src="https://tse3.mm.bing.net/th?id=OIP.U9KCxb_HkEp-_NzwpZRl2QHaEw&pid=Api&P=0&h=180">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=godwin-oti&label=Profile%20views&color=0e75b6&style=flat" alt="godwin-oti" /> </p>
-
 ❤️ I’m currently learning **Data Pipeline and Automation**
 
 📄 Know about my experiences [https://www.linkedin.com/in/gabriela-arlt/](https://www.linkedin.com/in/gabriela-arlt-a9695782/)
