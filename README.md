@@ -1,3 +1,4 @@
+![Image description](https://raw.githubusercontent.com/Gabriela-Arlt/Gabriela-Arlt/main/movies.png)
 <img src="https://raw.githubusercontent.com/Gabriela-Arlt/Gabriela-Arlt/main/movies.png" alt="Image description" height=400 width=1200/>
 <h1 align="center">Hello everyone 👋, I'm Gabriela Arlt</h1>
 <h3 align="center"> Data Analyst</h3>
