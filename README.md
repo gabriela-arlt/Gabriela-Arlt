@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=godwin-oti&label=Profile%20views&color=0e75b6&style=flat" alt="godwin-oti" /> </p>
 
-🌱 I’m currently learning **Data Pipeline and Automation**
+❤️ I’m currently learning **Data Pipeline and Automation**
 
 📄 Know about my experiences [https://www.linkedin.com/in/gabriela-arlt/](https://www.linkedin.com/in/gabriela-arlt-a9695782/)
 
